@@ -9,7 +9,7 @@ The dataset is available on request by mailing the authors
 <H2>Source Code</H2>
 <ul>
 <li>The ML_models.ipynb notebook consists of the source code for the ML models  </li>
-<li>The source code for the transformers is used from the template <a href="https://github.com/seanbenhur/resusable_text_classification_template">here<> 
+<li>The source code for the transformers is used from the template <a href="https://github.com/seanbenhur/resusable_text_classification_template">here</a>
 </ul>
 
 
